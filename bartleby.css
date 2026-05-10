@@ -52,8 +52,8 @@
 
 .resultsDiv {
    max-width: fit-content;
-   margin-left: auto;
-   margin-right: 0;
+   margin-left: 0;
+   margin-right: auto;
    font-size: 100%;
    font-weight: normal;
    min-height: 30px;
